@@ -44,6 +44,7 @@ public class EmployeeDetails {
 	
 	public static void main(String[] args) {
 		EmployeeDetails em = new EmployeeDetails();
+		System.out.println("Employee Details");
 		em.embId();
 		em.empName();
 		em.empEmail();
